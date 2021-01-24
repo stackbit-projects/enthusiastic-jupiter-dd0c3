@@ -1,6 +1,6 @@
 ---
 title: Big plants
 order: 1
-section: Store
+section: About
 template: category
 ---
